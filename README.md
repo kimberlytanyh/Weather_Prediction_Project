@@ -6,4 +6,4 @@ In this group project, my group attempted to predict the temperature and precipi
 
 [Regression Tree Model with XGBoosting](https://drive.google.com/file/d/1RdWQmtQvZIYiKnvJWQLvYuEWtl0eWTsW/view?usp=sharing)
 
-[Group report, where I wrote about the results of my models under "Predicting Weekly Temperature Using XGBoost from a Single Location"](https://docs.google.com/document/d/1t6uzn8V56CROHo5AaMm3lYYLP22NkjIgX-inGbUUO6E/edit?usp=sharing)
+[Group report, in-charge of Section: "Predicting Weekly Temperature Using XGBoost from a Single Location"](https://docs.google.com/document/d/1t6uzn8V56CROHo5AaMm3lYYLP22NkjIgX-inGbUUO6E/edit?usp=sharing)
